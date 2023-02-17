@@ -50,4 +50,98 @@ Power BIを使って作成した
 
 
 ## Power Appsでアプリケーションを素早く構築 ***ビジネス価値/ Power BI***
- 
+
+### [キャンバスアプリの作成](https://learn.microsoft.com/ja-jp/training/modules/build-app-solution/)
+Azureを使用してクラウドネイティブアプリケーションを作成・展開
+します。
+
+作成する前に
+- Azure を使用してアプリを作成するための基礎知識
+- Azure で利用できるアプリケーションサービスを把握
+する必要があります。
+
+
+
+### [モデル駆動型の作成](https://learn.microsoft.com/ja-jp/training/modules/how-build-model-driven-app/)
+モデル駆動型アプリは、組織内のビジネスプロセスを自動化するために使用されるアプリケーションです。
+ - 独自のデータモデル
+ - ビジネスロジック
+ - 独自のユーザーインターフェイス
+を持っています。
+
+
+作成の前に、
+- モデル駆動型アプリの基本概念、
+- 作成に必要なツールとリソース、
+- アプリの設計と構築手順
+- モデル駆動型アプリの機能や統合の方法、
+- デプロイと管理に関する情報
+も把握しておくと開発効率が上がる可能性があります。
+
+具体的には、モデル駆動型アプリの概要、
+構築する手順は以下の通りです。
+- データモデルの作成、
+- ビジネスプロセスの定義、
+- ユーザーインターフェースの作成、
+- アプリのデプロイと管理
+
+## Power Automateを使用したプロセスの自動化 ***ビジネス価値/Power Automate***
+
+### [Power Automate 概要](https://learn.microsoft.com/ja-jp/training/modules/introduction-power-automate/)
+
+Power Automateでは、
+- 業務プロセスの自動化や
+- タスクの自動化
+を行うローコードツールです。
+また、多くのアプリケーション・サービスと統合できます。
+
+Power Automateを使用する際には
+基本的な概念や機能を把握しておく必要があります。
+
+機能については
+- トリガー
+- アクション
+- フロー
+- デバッグ
+- 監視方法、
+- コネクタ、
+- テンプレート、
+- ゲートウェイ
+などがあります。
+
+作成については、
+- ビデオ、
+- デモ、
+- 演習問題
+を組み合わせて、
+学習者自身でPower Automateを体験する必要があります。
+以上のことを行うことで
+より深く理解できます。
+
+
+### [自動化されたソリューションの構築](https://learn.microsoft.com/ja-jp/training/modules/build-automated-solution/)
+
+Microsoft Azure上での自動化されたソリューションの構築を行います。
+
+以下のサービスを使用することでビジネスプロセスの自動化が期待できます。
+- Azure Logic Apps
+- Azure Functionsなど
+
+また、以下のことを把握しておく必要があります。
+- 自動化の基礎となる概念
+- Azure Logic Appsの基本的な機能、
+- Azure Functionsを使用したコードの実行、
+- Azure Logic AppsとAzure Functionsを組み合わせたシナリオ
+など
+
+構築の際は、
+- Azure Portal
+- Visual Studio Code
+を使用して、
+Logic AppsとFunctionsの作成やデバッグ・デプロイなどを行いまます。
+
+
+ビジネスプロセスの自動化でのアイディアは
+- 自動化されたソリューションを構築するための基本的なスキル
+- Azure上での自動化の可能性について理解
+が必要になります。
