@@ -54,6 +54,8 @@ PL-900: Microsoft Power Platform 基礎 試験対策記録です。
 [PL-900: Microsoft Power Platform Fundamentals Certification Practice Test](https://www.mindhub.com/pl-900-microsoft-power-platform-fundamentals-microsoft-official-practice-test/p/MU-PL-900)
 ）
 
+[試験 PL-900: Microsoft Power Platform Fundamentals の学習ガイド](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/pl-900)
+
 - 17日：弱点を特定して勉強する
 - 18日：リラックスする
 
