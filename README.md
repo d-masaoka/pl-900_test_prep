@@ -17,7 +17,7 @@ PL-900: Microsoft Power Platform 基礎 試験対策記録です。
 # 試験のオフィシャルガイドとコースアウトラインを読む 28日
 
 [試験のオフィシャルガイドとコースアウトラインを読む](https://www.notion.so/2f4b4a044e4d46eaabeb5b1e92f0a8dc)
-
+[学習リソース](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/pl-900#study-resources)
 # 合格に必要なトピックを特定する1日~5日
 以下が用意されている。
 - 学習トピック
