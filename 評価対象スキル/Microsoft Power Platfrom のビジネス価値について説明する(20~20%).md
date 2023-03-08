@@ -1,6 +1,12 @@
 # Microsoft Power Platform のビジネス価値を説明する
 ## [Power BIを活用したデータへに関する分析情報を取得する](https://learn.microsoft.com/ja-jp/training/modules/introduction-power-bi/2-what-power-bi)
 
+
+
+
+
+
+
 ## Power Appsでアプリケーションを素早く構築 
 
 ### [キャンバスアプリの作成](https://learn.microsoft.com/ja-jp/training/modules/build-app-solution/)
