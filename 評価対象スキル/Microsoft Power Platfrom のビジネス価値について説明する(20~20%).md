@@ -1,15 +1,10 @@
 # Microsoft Power Platform のビジネス価値を説明する
 ## [Power BIを活用したデータへに関する分析情報を取得する](https://learn.microsoft.com/ja-jp/training/modules/introduction-power-bi/2-what-power-bi)
 
-
-
-
-
-
-
 ## Power Appsでアプリケーションを素早く構築 
 
 ### [キャンバスアプリの作成](https://learn.microsoft.com/ja-jp/training/modules/build-app-solution/)
+#### 基本要素
 
 ### [モデル駆動型の作成](https://learn.microsoft.com/ja-jp/training/modules/how-build-model-driven-app/)
 
@@ -40,9 +35,8 @@
 ## [Microsoft Power Platform ビジネス ソリューションで Azure Cognitive Services を含む Microsoft Azure サービスをどのように使用できるかについて説明する](https://azure.microsoft.com/ja-jp/products/power-platform)
 
 ## Microsoft Power Platform のビジネス ソリューションでサードパーティのアプリとサービスをどのように使用できるかについて説明する
-[powerBI](https://learn.microsoft.com/ja-jp/power-bi/collaborate-share/service-power-bi-get-started-third-party-apps)
-[powerautomate](https://learn.microsoft.com/ja-jp/power-automate/developer/embed-flow-dev)
-[powerapps](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/connections-list)
+標準コネクタで提供されているものがある。
+標準コネクタに該当しないものは[カスタムコネクタを登録して使用する](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/register-custom-api)
 
 ## [AppSource のユース ケースについて説明する](https://learn.microsoft.com/ja-jp/marketplace/appsource-overview)
 
