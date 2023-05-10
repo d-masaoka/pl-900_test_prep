@@ -10,101 +10,22 @@ PL-900: Microsoft Power Platform 基礎 試験対策記録です。
 6. 弱点を特定して、より効率的に勉強するように調整します。
 7. 最後には、試験前にリラックスして、試験当日に臨んでください。
 
-# 試験対策期間
+# スケージュール
+## Day 1: 基礎知識  
 
-2月28日（火）～3月10日（金）1h~3h
+### PL-900のシラバスや公式ガイドを読んで基礎知識を習得 
 
-# 試験のオフィシャルガイドとコースアウトラインを読む 28日
+[評価されるスキル]( https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023 )
+[公式ラーニング](https://learn.microsoft.com/ja-jp/training/paths/power-plat-fundamentals/ )
+[PL-900 学習ガイド](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900 )
 
-[試験のオフィシャルガイドとコースアウトラインを読む](https://www.notion.so/2f4b4a044e4d46eaabeb5b1e92f0a8dc)
-[学習リソース](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/pl-900#study-resources)
-# 合格に必要なトピックを特定する1日~5日
-以下が用意されている。
-- 学習トピック
-- 参考記事
+### Power Platformの概要 について学習
 
-[Microsoft Power Platformのビジネス価値について説明する (20-25%)]()
-[Microsoft Power Platformのコアコンポーネントの特定 (10-15%)]()
+- コンポーネント 
+- アーキテクチャ 
+- セキュリティ 
+- コンプライアンス  
 
-[Power BIの機能を実証する(20-25%)]()
 
-[Power Apps の機能を実証する (25-30%)]()
-
-[Power Automateの機能を実証する (10-15%)]()
-
-# 6~7日：学習資料を選んで勉強する
-合格に必要なトピックの内容を参考記事を見ながらまとめる。
-
-# 8日~9日：トピック1に焦点を当てて勉強する
-
-- **Power Appsのビジネス価値の説明(20～25％)**
-
-# 10日~11日：トピック2に焦点を当てて勉強する
-- **Power Platformのビジネス価値についての説明(15～20％)**
-- **Power Platformのコアコンポーネントの特定(15～20％)**
-# 12日～13日：トピック3に焦点を当てて勉強する
-    - **Power BIのビジネス価値の実証(15～20％)**
-# 144日～15日：トピック4に焦点を当てて勉強する
-    - **Power Automateのビジネス価値の実証(15～20％)**
-    - **Power Virtual Agentsのビジネス価値の実証(10～15％)**
-# 16日：模擬試験などを受けて自分のレベルを評価する
-
-[](https://www.udemy.com/course/pl-900microsoft-power-platform/learn/quiz/5417008/results?expanded=884818004#overview)
-
-[PL-900: Microsoft Power Platform Fundamentals Certification Practice Test](https://www.mindhub.com/pl-900-microsoft-power-platform-fundamentals-microsoft-official-practice-test/p/MU-PL-900)
-）
-
-[試験 PL-900: Microsoft Power Platform Fundamentals の学習ガイド](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/pl-900)
-
-- 17日：弱点を特定して勉強する
-- 18日：リラックスする
-
-# 試験範囲
-
-- **Power Platformのビジネス価値についての説明(15～20％)**
-- **Power Platformのコアコンポーネントの特定(15～20％)**
-- **Power BIのビジネス価値の実証(15～20％)**
-- **Power Appsのビジネス価値の説明(20～25％)**
-- **Power Automateのビジネス価値の実証(15～20％)**
-- **Power Virtual Agentsのビジネス価値の実証(10～15％)**
-    
-    [Microsoft Certified: Microsoft Power Platform Fundamentals (PL-900)｜Microsoft認定資格 公式サイト](https://www.notion.so/Microsoft-Certified-Microsoft-Power-Platform-Fundamentals-PL-900-Microsoft-6f22fe0c49664a50b419aa894c4311f9)
-    
-
-# 教材
-
-公式トレーニング
-
-[PL-900: Microsoft Power Platform Fundamentals - Training](https://learn.microsoft.com/ja-jp/training/paths/power-plat-fundamentals/)
-
-実際に動かす
-
-[Power Apps](https://make.powerapps.com/environments/2cd21d05-ed7c-e4d7-85bc-27f3d538b2b4/home)
-
-問題集
-
-[](https://www.udemy.com/course/pl-900microsoft-power-platform/)
 
 # アウトプット
-
-レシピ
-
-[recipelist_OKRver1.3](https://docs.google.com/spreadsheets/d/19X7h9m3ywIziYEkiaJBJ8s-2ENLQ5dAG-Z57w_YuRAM/edit?usp=drivesdk)
-
-[Udemy 試験対策](https://www.notion.so/Udemy-639c5b851ace46d3b8f67fa7af1be53b)
-
-# 試験対策
-
-- power apps の以下を実施
-    - 初めてのアプリ作成 msチュートリアル
-    
-    [テンプレートからキャンバス アプリを作成する - Power Apps](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/get-started-test-drive)
-    
-    [簡易デザイン - Power Apps](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/express-design)
-    
-    [Microsoft Lists のデータを使用してキャンバス アプリを作成する (動画を含む) - Power Apps](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/app-from-sharepoint)
-    
-- アプリ作成の手順を記録する。
-- 作業中に出てきた用語を記録する
-- Udemy でテストを受ける。
-
