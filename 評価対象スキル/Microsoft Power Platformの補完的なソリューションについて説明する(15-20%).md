@@ -1,19 +1,19 @@
-# Microsoft Teams での Power Virtual Agents の機能について説明する
+Microsoft Power Platformの補完的なソリューションについて説明する(15-20%)
+# Power Virtual Agentsの機能を説明する。
+Power Virtual Agentsのユースケースを説明する。
 
-## [Microsoft Teams 内の Power Virtual Agents のユース ケースについて説明する](https://learn.microsoft.com/ja-jp/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams)
+トピック、エンティティ、アクションの目的を説明する。
 
-## [トピック、エンティティ、アクションについて説明する](https://learn.microsoft.com/ja-jp/training/modules/introduction-power-virtual-agents/3-power-virtual-agents-components)
+Suggest Topicsを利用して、既存のFAQからトピックを作成する。
 
-## [メッセージ ノード、質問ノード、条件、トリガー フレーズ、作成キャンバスについて説明する](https://learn.microsoft.com/ja-jp/power-virtual-agents/authoring-create-edit-topics)
+# Power Pagesの機能を説明する
+Power Pagesのユースケースを説明する
 
-# 基本的なチャットボットを構築して公開する
+テンプレートのユースケースを説明する
 
-## [チャットボットを作成する](https://learn.microsoft.com/ja-jp/power-virtual-agents/authoring-first-bot)
+データを外部と共有する方法について説明する
 
-## [トピックを作成する](https://learn.microsoft.com/ja-jp/power-virtual-agents/authoring-create-edit-topics)
+# AI Builderの機能を説明する
+AI Builderのユースケースを説明する。
 
-## [アクションの呼び出し](https://learn.microsoft.com/ja-jp/power-virtual-agents/advanced-use-flow)
-
-## [チャットボットから Power Automate フローを起動する](https://learn.microsoft.com/ja-jp/power-virtual-agents/advanced-flow)
-
-## [Microsoft Teams、Web サイト、その他のアプリを含むさまざまなアプリケーションにチャットボットを発行する](https://learn.microsoft.com/ja-jp/power-virtual-agents/publication-fundamentals-publish-channels)
+AI Builderのモデルを作成するためのライフサイクルを説明します。

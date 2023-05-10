@@ -1,5 +1,8 @@
 # pl-900_test_prep
 PL-900: Microsoft Power Platform 基礎 試験対策記録です。
+[試験範囲](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023) **2023年3月24日以降**
+※2023年5月10現在 
+
 # 試験対策項目
 
 1. 試験のオフィシャルガイドとコースアウトラインを読んで、試験内容を理解します。
