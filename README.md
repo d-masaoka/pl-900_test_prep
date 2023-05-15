@@ -27,7 +27,7 @@ PL-900のシラバスや公式ガイドを読んで基礎知識を学習
 - コンプライアンス 
 について学習 
 
-- 試験問題の演習 1日 3回
+- 試験問題の演習 1日 3回 9:00 13:00 17:00
 [Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
 
 ## Day 2: データ管理 
@@ -35,7 +35,7 @@ PL-900のシラバスや公式ガイドを読んで基礎知識を学習
 - データの接続、管理、保護、操作、インポート/エクスポートなどの概念について理解を深める
 - Power Appsを使用してデータの入力や更新を行い、Power Automateを使用してデータを自動的に処理する方法を学習
 
-- 試験問題の演習 1日 3回
+- 試験問題の演習 1日 3回 9:00 13:00 17:00
 [Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
 
 ## Day 3: ビジネスプロセス自動化
@@ -43,6 +43,22 @@ PL-900のシラバスや公式ガイドを読んで基礎知識を学習
 - フローの作成、トリガーの設定、アクションの追加、コネクタの使用などの概念を理解を深める
 - Power Appsとの連携についても学習
 
-- 試験問題の演習 1日 3回
+- 試験問題の演習 1日 3回 9:00 13:00 17:00
+[Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
+
+## Day 4: ビジネスインテリジェンス
+- Power BIを使用してビジネスインテリジェンスを実現する方法について学びます。 
+- データの接続、モデリング、視覚化、ダッシュボード、レポート作成などの概念を理解します。 
+- Power AppsやPower Automateとの連携についても学習しましょう。 
+  
+- 試験問題の演習 1日 3回 9:00 13:00 17:00
+[Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
+
+## Day 5: Power Platformの展望
+- Power Platformの展望について学びます。 
+- AI Builder、Power Apps Portals、Dataverse for Teamsなどの新しい機能やアップデートについて学習します。 
+- 最後に、実際の試験に対する準備を行い、過去の問題集を解いて復習しましょう。 
+
+- 試験問題の演習 1日 3回 9:00 13:00 17:00
 [Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
 # アウトプット
