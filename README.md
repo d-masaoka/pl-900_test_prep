@@ -15,20 +15,34 @@ PL-900: Microsoft Power Platform 基礎 試験対策記録です。
 
 # スケージュール
 ## Day 1: 基礎知識  
-
-### PL-900のシラバスや公式ガイドを読んで基礎知識を習得 
-
-[評価されるスキル]( https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023 )
+PL-900のシラバスや公式ガイドを読んで基礎知識を学習 
+[評価されるスキル](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023 )
 [公式ラーニング](https://learn.microsoft.com/ja-jp/training/paths/power-plat-fundamentals/ )
 [PL-900 学習ガイド](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900 )
 
-### Power Platformの概要 について学習
-
+- Power Platformの概要 
 - コンポーネント 
 - アーキテクチャ 
 - セキュリティ 
-- コンプライアンス  
+- コンプライアンス 
+について学習 
 
+- 試験問題の演習 1日 3回
+[Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
 
+## Day 2: データ管理 
+- Power Platformを使用してデータを管理する方法について学習
+- データの接続、管理、保護、操作、インポート/エクスポートなどの概念について理解を深める
+- Power Appsを使用してデータの入力や更新を行い、Power Automateを使用してデータを自動的に処理する方法を学習
 
+- 試験問題の演習 1日 3回
+[Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
+
+## Day 3: ビジネスプロセス自動化
+- Power Automateを使用してビジネスプロセスを自動化する方法について学習
+- フローの作成、トリガーの設定、アクションの追加、コネクタの使用などの概念を理解を深める
+- Power Appsとの連携についても学習
+
+- 試験問題の演習 1日 3回
+[Udemy の試験問題](https://www.udemy.com/course/pl-900microsoft-power-platform/)を解く 
 # アウトプット
