@@ -1,25 +1,23 @@
-# Microsoft Dataverse について説明する
-## [データベースと Dataverse の違いについて説明する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
+# Microsoft Power Platformの基礎コンポーネントを確認する（10～15％）。
+# マイクロソフトのデータバースについて説明する
+## 従来のデータベースとMicrosoft Dataverseの違いについて説明する。
 
-## [Dataverse と Dataverse for Teams の違いについて説明する](https://learn.microsoft.com/ja-jp/power-apps/teams/data-platform-compare)
+## Microsoft Dataverseのテーブル、カラム、リレーションシップを説明する。
+### [テーブル](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/work-with-any-data#%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB)
+### [カラム](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/work-with-any-data#%E5%88%97)
+### [リレーションシップ](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/work-with-any-data#%E9%96%A2%E4%BF%82)
 
-## [テーブル、列、](https://learn.microsoft.com/ja-jp/training/modules/introduction-common-data-service/3-identify-entities-fields?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.wwl.power-plat-fundamentals)[リレーションシップ](https://learn.microsoft.com/ja-jp/training/modules/introduction-common-data-service/4-understand-relationships?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.wwl.power-plat-fundamentals)について説明する
+## [Microsoft Dataverseのビジネスロジックを記述する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/processes)
 
-## [一般的な標準テーブルを使用して人物、場所、ものを記述する方法について説明する](https://learn.microsoft.com/ja-jp/training/modules/get-started-with-powerapps-common-data-service/)
+## [Microsoft Dataverseのデータフローを記述する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/why-dataverse-overview?source=recommendations#%E5%88%86%E6%9E%90%E3%81%A8%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88)
 
-## [ビジネス ルール、リアルタイム ワークフロー、アクションを含むビジネス ロジックの用途について説明する](https://learn.microsoft.com/ja-jp/training/modules/introduction-common-data-service/6-business-rules)
+# コネクターについて説明します。
+## [コネクタの構成要素について説明する](https://learn.microsoft.com/ja-jp/connectors/connectors#%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88)
 
-## [データフローとその用途について説明する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/create-and-use-dataflows)
+## スタンダードコネクターとプレミアムコネクターについて説明します。
+- [スタンダードコネクタ](https://learn.microsoft.com/ja-jp/connectors/connector-reference/connector-reference-standard-connectors)
+- [プレミアムコネクタ](https://learn.microsoft.com/ja-jp/connectors/connector-reference/connector-reference-premium-connectors)
 
-## [ソリューションとその目的について説明する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/why-dataverse-overview)
+## [カスタムコネクタのユースケースを特定する](https://learn.microsoft.com/ja-jp/connectors/custom-connectors/#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-1)
 
-# コネクタについて説明する
-
-## [トリガーの種類やトリガーが使用される場所を含めてトリガーについて説明する](https://learn.microsoft.com/ja-jp/power-automate/triggers-introduction)
-
-## [アクションについて説明する](https://learn.microsoft.com/ja-jp/training/modules/dataverse-triggers-actions/)
-
-## [Standard または Premium レベルを含むコネクタのライセンス オプションについて説明する](https://learn.microsoft.com/ja-jp/power-platform/admin/powerapps-flow-licensing-faq)
-
-## [カスタム コネクタのユース ケースを特定する](https://learn.microsoft.com/ja-jp/connectors/custom-connectors/customconnectorssolutions)
 
