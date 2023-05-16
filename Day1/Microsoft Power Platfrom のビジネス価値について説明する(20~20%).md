@@ -80,6 +80,7 @@
 ### アクセシビリティ 
 - [監視とアラート](https://learn.microsoft.com/ja-jp/power-platform/guidance/adoption/resource-usage)
 # 参考
-[Skills measured as of March 24, 2023](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023)
-[PL-900: Microsoft Power Platform Fundamentals](https://learn.microsoft.com/ja-jp/training/paths/power-plat-fundamentals/)
+- [Skills measured as of March 24, 2023](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900#skills-measured-as-of-march-24-2023)
+- [PL-900: Microsoft Power Platform Fundamentals](https://learn.microsoft.com/ja-jp/training/paths/power-plat-fundamentals/)
+- [Microsoft Power Platfrom ドキュメント](https://learn.microsoft.com/ja-jp/power-platform/)
 
