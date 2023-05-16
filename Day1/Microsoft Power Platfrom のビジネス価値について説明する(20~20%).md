@@ -31,7 +31,9 @@
 - Azure Bot Framework がサポートするあらゆるチャネル
 
 ## [サービスやデータを統合するコネクタの価値を説明する](https://learn.microsoft.com/ja-jp/connectors/connectors)
-## [ビジネスデータを整理するためのMicrosoft Dataverseの価値を説明する。](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro#%E3%81%AA%E3%81%9C-dataverse%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
+## ビジネスデータを整理するためのMicrosoft Dataverseの価値を説明する。
+[なぜ Dataverse を使うのか](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro#%E3%81%AA%E3%81%9C-dataverse%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
+[あらゆる種類のデータをで作業する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/why-dataverse-overview#%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E7%A8%AE%E9%A1%9E%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E4%BD%9C%E6%A5%AD%E3%81%99%E3%82%8B)
 ## [アプリやフローを強化するAI Builderの価値について説明する。](https://learn.microsoft.com/ja-jp/ai-builder/overview)
 - ニーズに合わせて調整された カスタム モデルを作成
 - 一般的な業務シナリオで使用できる 事前構築済み モデルを選択
