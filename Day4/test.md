@@ -1,10 +1,17 @@
 ## 課題
-- 各Power BI サービスでできることを理解する
-- Datavers での機能を理解する
-- Power BI ダッシュボードの構成
-- Power BI データ取り込みに使用する言語
-- Power Apps の仕様
+- [各Power BI サービスでできることを理解する](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-service-vs-desktop)
+- [Datavercs での機能を理解する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
+- Power BI ダッシュボードについて理解する
+  - [チュートリアル](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-get-started)
+  - [ダッシュボードについて](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-basic-concepts#dashboards)
+- Power BI データ取り込みに使用する言語 **テストの回答を覚える。**
+- [Power Apps の仕様](https://learn.microsoft.com/ja-jp/power-apps/powerapps-overview)
 - Power Automate のワークフローについて
+  - [クラウド フロー](https://learn.microsoft.com/ja-jp/power-automate/overview-cloud)
+  - [デスクトップフロー](https://learn.microsoft.com/ja-jp/power-automate/desktop-flows/introduction)
+  - [ビジネスプロセスフロー](https://learn.microsoft.com/ja-jp/power-automate/business-process-flows-overview)
 - PowerApps の各アプリのユースケース
-- コネクタの概要
-- PowerBIで使用されるデータソースの種類
+  - [キャンバス アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/getting-started)
+  - [モデル駆動型アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/model-driven-apps/model-driven-app-overview)
+- [コネクタの概要](https://learn.microsoft.com/ja-jp/connectors/connectors)
+- PowerBIで使用されるデータソースの種類 **テストの回答を確認**
