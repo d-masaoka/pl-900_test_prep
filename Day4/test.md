@@ -1,17 +1,47 @@
 ## 課題
-- [各Power BI サービスでできることを理解する](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-service-vs-desktop)
-- [Datavercs での機能を理解する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
-- Power BI ダッシュボードについて理解する
-  - [ダッシュボードについて](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-basic-concepts#dashboards)
-- Power BI データ取り込みに使用する言語 **テストの回答を覚える。**
-- [Power Apps の仕様](https://learn.microsoft.com/ja-jp/power-apps/powerapps-overview)
-- Power Automate のワークフローについて
-  - [クラウド フロー](https://learn.microsoft.com/ja-jp/power-automate/overview-cloud)
-  - [デスクトップフロー](https://learn.microsoft.com/ja-jp/power-automate/desktop-flows/introduction)
-  - [ビジネスプロセスフロー](https://learn.microsoft.com/ja-jp/power-automate/business-process-flows-overview)
-- PowerApps の各アプリのユースケース
-  - [キャンバス アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/getting-started)
-  - [モデル駆動型アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/model-driven-apps/model-driven-app-overview)
+## [各Power BI サービスでできることを理解する](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-service-vs-desktop)
+## [Datavercs での機能を理解する](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/data-platform-intro)
+## Power BI ダッシュボードについて理解する
+  ### [ダッシュボードについて](https://learn.microsoft.com/ja-jp/power-bi/fundamentals/service-basic-concepts#dashboards)
+## Power BI データ取り込みに使用する言語 **テストの回答を覚える。**
+## [Power Apps の仕様](https://learn.microsoft.com/ja-jp/power-apps/powerapps-overview)
+## Power Automate のワークフローについて
+### [クラウド フロー](https://learn.microsoft.com/ja-jp/power-automate/overview-cloud)
+### [デスクトップフロー](https://learn.microsoft.com/ja-jp/power-automate/desktop-flows/introduction)
+Power Automate Desktopは生産性向上を可能にする強力なツールで、
+ルーチン作業の自動化と業務フローの効率化を実現します。
+
+その背景として
+1. **ルーチン作業の自動化:** Power Automate Desktopは、Windowsデスクトップ上でマウスのクリックやキーボードの操作、アプリケーション間のデータのコピーと貼り付け等のルーチン作業を自動化します。
+これにより、時間を節約し、より重要なタスクに集中できます。
+
+2. **Webとデスクトップアプリケーションの両方での動作:** Power Automate Desktopは、Webとデスクトップの両方のアプリケーションで動作します。
+これにより、異なるタイプのアプリケーション間で一貫した自動化を提供します。
+
+3. **ローカルとクラウドの連携:** デスクトップフローは、ローカルコンピュータ上で実行することができ、Microsoft Power Automateのクラウドフローと連携してさらに高度な自動化を実現します。
+
+これらの特性から、Power Automate Desktopは、効率的な業務フローを実現し、
+生産性を向上させるための重要なツールと言えます。
+### [ビジネスプロセスフロー](https://learn.microsoft.com/ja-jp/power-automate/business-process-flows-overview)
+Microsoft Power Automateのビジネスプロセスフロー（BPF）は、
+タスクの完了を一貫性と正確性をもってガイドするための強力なツールで、
+企業の効率化と生産性向上に寄与します。
+
+その背景として
+1. **ステップバイステップのガイドライン**： ビジネスプロセスフローは、特定の結果を達成するために必要なステップを定義します。
+これにより、ユーザーはタスクを一貫した順序で正確に完了することができ、重要な情報が欠落することを防げます。
+
+2. **条件に基づくブランチ作成**： Power Automateのビジネスプロセスフローは、特定の条件が満たされたときに自動的に進行するブランチを作成できます。
+これにより、さまざまなシナリオに対応した効率的なフローを実現できます。
+
+3. **カスタマイズ可能**： 管理者は、企業の特定のニーズに合わせてビジネスプロセスフローをカスタマイズできます。
+これは、特定のビジネス環境に対応した効率的なフローを提供します。
+
+これらの要素から、ビジネスプロセスフローは、タスクの完了を一貫性と正確性をもってガイドし、効率的なビジネス運営を実現するための強力なツールと言えます。
+
+## PowerApps の各アプリのユースケース
+### [キャンバス アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/getting-started)
+### [モデル駆動型アプリとは](https://learn.microsoft.com/ja-jp/power-apps/maker/model-driven-apps/model-driven-app-overview)
 ## [コネクタの概要](https://learn.microsoft.com/ja-jp/connectors/connectors)
 コネクタは基盤となるサービス
 - Microsoft Power Automate
